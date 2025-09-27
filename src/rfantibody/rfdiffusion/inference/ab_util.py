@@ -9,10 +9,11 @@ from icecream import ic
 from rfantibody.rfdiffusion.parsers import *
 from rfantibody.rfdiffusion.kinematics import xyz_to_t2d
 from rfantibody.rfdiffusion.chemical import INIT_CRDS
+from rfantibody.rfdiffusion import util
 from rfantibody.rfdiffusion.util import \
     torsion_indices as TOR_INDICES, \
     torsion_can_flip as TOR_CAN_FLIP, \
-    reference_angles as REF_ANGLES 
+    reference_angles as REF_ANGLES
 
 
 ab_tasks = [
