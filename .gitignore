@@ -55,3 +55,7 @@ BTN_MPNN.slurm
 BTN_RF2.slurm
 Prothrombin_slurms/
 RPN_RFdiffusion.slurm
+# Local-only sensitive folders
+MY_SCRIPTS/
+MY_SLURM/
+MY_SLURMS/
