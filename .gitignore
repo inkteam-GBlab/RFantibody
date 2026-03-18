@@ -11,7 +11,7 @@ Filtered_test_outputs_1hcv1_ProT1_RF2/
 Filtered_test_outputs_1hcv1_ProT2_RF2/
 Good_frameworks/
 mv1207/
-old slurm jobs/
+old_slurm_jobs/
 outputs/
 test_*/
 targets/
@@ -35,8 +35,23 @@ checkpoint_*
 *.db
 *.sqlite
 *.sif
-*.slurm
 filter_pdbs.py
 rfantibody_dev/
 include/USalign/
 include/dgl/
+BTN3A2_AF3.pdb
+BTN_Binder_design/
+Experiments/
+Frameworks/
+RPN/
+RPNLRLIGV_B7_cropped.pdb
+RPNLRLIGV_B7_cropped_T.pdb
+TRPHIIVRF/
+jl2392/
+rosetta_interface_analyzer.sh
+testrosetta/
+ub035/
+BTN_MPNN.slurm
+BTN_RF2.slurm
+Prothrombin_slurms/
+RPN_RFdiffusion.slurm
